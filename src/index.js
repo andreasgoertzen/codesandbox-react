@@ -8,7 +8,6 @@ function App() {
     <div className="App">
       <h1>Moin</h1>
       <h2>React im Browser programmieren</h2>
-      <h2>mit Codesandbox</h2>
     </div>
   );
 }
