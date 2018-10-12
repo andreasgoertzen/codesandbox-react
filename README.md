@@ -1,2 +1,2 @@
 # codesandbox-react
-Created with CodeSandbox
+Erstellt mit CodeSandbox
