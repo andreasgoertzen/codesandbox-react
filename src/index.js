@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Greeting />
       <h2>Mit React im Browser programmieren</h2>
-      <div style={{ width: "50%" }}>
+      <div>
         <News />
       </div>
     </div>
